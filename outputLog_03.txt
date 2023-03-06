@@ -1,0 +1,147 @@
+Simulation at 2023-03-05
+Universe size 100 x 100
+
+ 
+Iteration: 0
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 1
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 2
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 3
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 4
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 5
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 6
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 7
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 8
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 9
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
+Iteration: 10
+BLOCK 		Count: 0	 || 	Percent: 0% 
+BEEHIVE 	Count: 0	 || 	Percent: 0% 
+LOAF 		Count: 0	 || 	Percent: 0% 
+BOAT 		Count: 0	 || 	Percent: 0% 
+TUB 		Count: 0	 || 	Percent: 0% 
+BLINKER 	Count: 0	 || 	Percent: 0% 
+TOAD 		Count: 0	 || 	Percent: 0% 
+BEACON 		Count: 0	 || 	Percent: 0% 
+GLIDER 		Count: 0	 || 	Percent: 0% 
+LG SPACE SHIP 	Count: 0	 || 	Percent: 0% 
+
+ 
